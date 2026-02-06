@@ -1,5 +1,5 @@
-# Precipitation Bias Correction
-A Bayesian Fusion of ERA5 and IMERG Data (Taiwan Case Study)
+# Computational Stats Final Project:
+ Precipitation Bias Correction: A Bayesian Fusion of ERA5 and IMERG Data (Taiwan Case Study)
 
 
 
